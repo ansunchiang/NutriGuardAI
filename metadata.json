@@ -1,0 +1,7 @@
+{
+  "name": "NutriGuard AI",
+  "description": "AI-powered food analysis tool for nutritional breakdown and safety assessments for humans and pets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
